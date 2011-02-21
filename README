@@ -1,0 +1,13 @@
+Project n.rte
+
+Codename: n.rte
+Latest version: 1.0.0
+Stage: Beta
+Description: 
+
+A light-weight jQuery plugin that can turn any textarea on your page into a bbcode/html editor.
+
+Change log:
+
+[0.1.0]
+	* First release.
