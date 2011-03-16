@@ -15,8 +15,8 @@ A light-weight jQuery plugin that can turn any textarea on your page into a Rich
 Change log:
 -----------
 
-[1.0.1b]
+**[1.0.1b]**
 	* Converted some of HTML to xHTML.
 
-[1.0.0]
+**[1.0.0]**
 	* First release.

@@ -155,7 +155,7 @@
 	            }
 	            if (!success) {
 	            	if ("cutcopypaste".indexOf(command) > -1)
-	                    alert('It would seem that ' + command + 'command is disabled for security reasons. Use the keyboard shortcut or context menu instead.');
+	                    alert('Your browser disabled the ' + command + 'command for security reasons. Use the keyboard shortcut or right-click menu instead.');
 	            }
         	}
         	base.updateEditor(editor);
