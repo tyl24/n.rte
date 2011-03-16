@@ -1,3 +1,10 @@
+/*
+ * n.rte
+ * 
+ * Version: 1.0.1b
+ * License: GNU GPLv3
+ * 
+ */
 (function($) {
     $.rte = function(el, options) {
         // To avoid scope issues, use 'base' instead of 'this'
