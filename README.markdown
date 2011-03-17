@@ -7,9 +7,9 @@ Project info
 **Latest version:** 1.0.1b  
 **Stage:** Beta  
 **License:** [GNU GPL 3.0](http://www.gnu.org/licenses/gpl-3.0.txt) 
-  
+
 **Description:**   
-A light-weight jQuery plugin that can turn any textarea on your page into a Rich-Text Editor.  
+A light-weight jQuery plugin that can turn any textarea on your page into a Rich-Text Editor.
   
 Change log:
 -----------
@@ -18,3 +18,7 @@ Change log:
 
 **[1.0.0]**
 	* First release.
+
+Additional Info
+---------------
+Some Icons are Copyright © Yusuke Kamiyamane.
