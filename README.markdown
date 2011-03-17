@@ -1,10 +1,5 @@
 n.rte
 =====
-  
-  
-![n.rte screenshot](http://i53.tinypic.com/1zfk9rm.png "n.rte screenshot")
-  
-  
 Project info
 ------------
 **Codename:** n.rte  
@@ -14,10 +9,20 @@ Project info
 **License:** [GNU GPL 3.0](http://www.gnu.org/licenses/gpl-3.0.txt) 
 
 **Description:**   
-A light-weight jQuery plugin that can turn any textarea on your page into a Rich-Text Editor.
+A light-weight jQuery plugin that can turn any textarea on your page into a Rich-Text Editor.  
   
-Change log:
------------
+**To Do:**  
+	* Fullscreen support  
+	* Better xHTML support  
+	* Try to fix some of the browser differences  
+	* Add skins
+  
+Screenshot
+----------
+![n.rte screenshot](http://i53.tinypic.com/1zfk9rm.png "n.rte screenshot")  
+  
+Change log
+----------
 **[1.0.1b]**
 	* Converted some of HTML to xHTML.
 
