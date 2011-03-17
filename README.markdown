@@ -1,5 +1,10 @@
 n.rte
 =====
+  
+  
+![n.rte screenshot](http://i53.tinypic.com/1zfk9rm.png "n.rte screenshot")
+  
+  
 Project info
 ------------
 **Codename:** n.rte  
