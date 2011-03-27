@@ -6,7 +6,7 @@ Project info
 **Author:** Žan Moškotevc @ [n.coders](http://www.ncoders.org/)  
 **Latest version:** 1.1.0  
 **Stage:** Active  
-**License:** [GNU GPL 3.0](http://www.gnu.org/licenses/gpl-3.0.txt) 
+**License:** MIT (license included) 
 
 **Description:**   
 A light-weight jQuery plugin that can turn any textarea on your page into a Rich-Text Editor.  
