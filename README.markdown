@@ -27,7 +27,7 @@ Screenshot
   
 Change log
 ----------
-**[1.1.0]**
+**[1.1.0]**  
     * Fixed bugs.  
     * Improved code.  
 **[1.0.1b]**  
