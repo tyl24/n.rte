@@ -28,14 +28,14 @@ Screenshot
 Change log
 ----------
 **[1.1.0]**
-    * Fixed bugs.
-    * Improved code.
-**[1.0.1b]**
-	* Converted some of HTML to xHTML.
-
-**[1.0.0]**
-	* First release.
-
+    * Fixed bugs.  
+    * Improved code.  
+**[1.0.1b]**  
+	* Converted some of HTML to xHTML.  
+  
+**[1.0.0]**  
+	* First release.  
+  
 Additional Info
 ---------------
 Some Icons are Copyright © Yusuke Kamiyamane.
