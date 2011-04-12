@@ -23,7 +23,7 @@ Screenshot
 ![n.rte screenshot](http://i53.tinypic.com/1zfk9rm.png "n.rte screenshot")  
   
 ###Rad skin
-![n.rte: rad skin screenshot](http://f.cl.ly/items/2F3t0W2N3q0J0a3d1S0v/Screen%20shot%202011-04-12%20at%2011.23.46%20PM.png "n.rte: rad skin screenshot")  
+![n.rte: rad skin screenshot](http://f.cl.ly/items/2T2M160v1l391Q2L450e/Screen%20shot%202011-04-12%20at%2011.30.22%20PM.png "n.rte: rad skin screenshot")  
   
 Change log
 ----------
