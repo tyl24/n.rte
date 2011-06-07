@@ -2,7 +2,7 @@
  * n.rte
  * 
  * Version: 1.1.0
- * License: GNU GPLv3
+ * License: MIT (https://raw.github.com/zanmoskotevc/n.rte/master/LICENSE)
  * 
  */
 (function($) {
